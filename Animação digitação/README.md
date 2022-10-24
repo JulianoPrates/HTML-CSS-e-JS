@@ -1,4 +1,4 @@
-## para visualizar direto no navegador com os códigos abertos:
+## Para visualizar direto no navegador com os códigos abertos:
 
 Acesse meu codepen.io 
 
